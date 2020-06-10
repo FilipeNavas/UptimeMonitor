@@ -1,4 +1,6 @@
-class Constants {
+package com.uptimemonitor;
+
+public class Constants {
 
   public static final String[] DOMAINS = new String[] {
     "googleapis.com",
